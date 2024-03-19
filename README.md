@@ -8,7 +8,7 @@
 </p>
 
 <h1>Task-1 : Prediction using Supervised ML</h1>
-<p>This is the link to the YouTube video to see the solution: <a href="xchgcvkhb">xchgcvkhb</a></p>
+<p>This is the link to the YouTube video to see the solution: <a href="https://youtu.be/3on7SX-9014">youtube</a></p>
 <ul>
   <li>Predict the percentage of marks of a student based on the number of study hours.</li>
   <li>This is a simple linear regression task as it involves just 2 variables.</li>
